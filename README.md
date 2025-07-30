@@ -106,7 +106,7 @@ Feel free to connect or drop feedback, always up for learning more and improving
 ## 📝 License
 
 This project is licensed under the **MIT License**.  
-Feel free to use, modify, or share — just give proper credit.
+Feel free to use, modify, or share. 'just give proper credit'
 
 You can read the full license [here](LICENSE)
 
