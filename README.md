@@ -89,10 +89,10 @@ for (let i = 0; i < desiredLength; i++) {
 ## 💡 Why I Built This
 
 I made this project mainly to practice working with DOM manipulation and handling user inputs in JavaScript.  
-It was also a fun way to create something useful — I always need strong passwords, so I figured why not build my own generator?
+It was also a fun way to create something useful, I always need strong passwords, so I figured why not build my own generator?
 
 Along the way, I got more comfortable with conditionals, event listeners, and dynamic UI logic.  
-It's simple, but solid — and I'm proud of how it turned out.
+It's simple, but solid and I'm proud of how it turned out.
 
 ---
 
