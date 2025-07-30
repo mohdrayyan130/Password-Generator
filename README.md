@@ -1,6 +1,5 @@
 # Password Generator 🔐
-
-Hey! 👋  
+ 
 This is a simple password generator I built using HTML, CSS, and JavaScript. It lets you generate strong, random passwords by selecting the type of characters you want (lowercase, uppercase, numbers, symbols) and setting your desired password length.
 
 Perfect if you just need a quick, secure password without relying on third-party tools.
@@ -9,6 +8,7 @@ Perfect if you just need a quick, secure password without relying on third-party
 
 ## 📂 Project Structure
 
+```
 password-generator/
 ├── assets/
 │   └── screenshot.png
@@ -18,7 +18,7 @@ password-generator/
 │   └── script.js
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## 🔍 How it Works
@@ -57,7 +57,7 @@ for (let i = 0; i < desiredLength; i++) {
   const index = Math.floor(Math.random() * characters.length);
   password += characters[index];
 }
-
+```
 ---
 
 ## 📸 Screenshot
