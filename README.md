@@ -67,7 +67,7 @@ for (let i = 0; i < desiredLength; i++) {
 ---
 
 ## 🔗 Live Demo  
-👉 [Click here to try it out](coming soon)
+👉 [Click here to try it out](https://mohdrayyan130.github.io/Password-Generator/)
 
 ---
 
