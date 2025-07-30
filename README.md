@@ -67,7 +67,7 @@ for (let i = 0; i < desiredLength; i++) {
 ---
 
 ## 🔗 Live Demo  
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cdfd8af3-da12-4baf-8ee8-ca6ad4345828/deploy-status)](https://password-generator-rayyan.netlify.app/)
+👉 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=netlify)](https://password-generator-rayyan.netlify.app)
 
 ---
 
