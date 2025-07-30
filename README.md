@@ -82,13 +82,7 @@ for (let i = 0; i < desiredLength; i++) {
 - `index.html` – main HTML file  
 - `style.css` – styles and layout  
 - `script.js` – handles logic and functionality  
-- `screenshot.png` – image used in this README  
-
----
-
-## ✍️ Author  
-**Mohd Rayyan**  
-Feel free to connect or drop feedback — always up for learning more and improving things.
+- `screenshot.png` – image used in this README 
 
 ---
 
@@ -99,6 +93,13 @@ It was also a fun way to create something useful — I always need strong passwo
 
 Along the way, I got more comfortable with conditionals, event listeners, and dynamic UI logic.  
 It's simple, but solid — and I'm proud of how it turned out.
+
+---
+
+## ✍️ Author  
+**Mohd Rayyan**  
+
+Feel free to connect or drop feedback, always up for learning more and improving things.
 
 ---
 
