@@ -67,7 +67,7 @@ for (let i = 0; i < desiredLength; i++) {
 ---
 
 ## 🔗 Live Demo  
-👉 [Click here to try it out](password-generator-rayyan.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cdfd8af3-da12-4baf-8ee8-ca6ad4345828/deploy-status)](https://password-generator-rayyan.netlify.app/)
 
 ---
 
