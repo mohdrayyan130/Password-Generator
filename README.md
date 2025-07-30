@@ -9,7 +9,7 @@ Perfect if you just need a quick, secure password without relying on third-party
 ## 📂 Project Structure
 
 ```
-password-generator/
+Password-Generator/
 ├── assets/
 │   └── screenshot.png
 ├── src/
